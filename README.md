@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Software Engineer
 --------------------------
 
-*   🌍  I'm based in Orlando, FL
 *   🖥️  See my portfolio at [thedhruv.dev](http://thedhruv.dev)
 *   🧠  I'm currently learning Backend tech such as Node, and Express
 *   👥  I'm looking to collaborate on anything really! Get my hands dirty with things I don't know!
