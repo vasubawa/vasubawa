@@ -31,22 +31,6 @@
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasubawa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vasubawa&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vasubawa&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vasubawa&theme=tokyonight&no-frame=true&row=1&column=7)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vasubawa&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## Connect With Me
 
 <div align="center">
