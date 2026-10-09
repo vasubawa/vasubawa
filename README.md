@@ -1,49 +1,54 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Engineer%F0%9F%8E%93;LLearning%20%C2%B7%20Building%20%C2%B7%20Failing%20%C2%B7%20Growing)](https://git.io/typing-svg)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=vasubawa&style=flat-square&color=58a6ff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Engineer%F0%9F%8E%93;Learning%20%C2%B7%20Building%20%C2%B7%20Failing%20%C2%B7%20Growing)](https://git.io/typing-svg)
 
 </div>
 
-# Hi, I'm Dhruv!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vasubawa&style=flat-square&color=58a6ff" alt="Visitor Count" />
+</p>
 
-> I'm either goofing off or leetcoding
+---
 
-## About Me
+### Hey, I'm Dhruv! 👋
 
-- **Currently building:** Envison
-- **Learning:** React, Node.js, and system design
-- **Open to:** Any collaborations!
-- **Fun fact:** I got my entire IT major banned from taking a class
+> *"First, solve the problem. Then, write the code."*
 
-## Tech Stack
+* 🔭 **Currently building:** [Envision](https://github.com/vasubawa)
+* 💡 **Learning:** React, Node.js, and system design
+* 🌱 **Fun fact:** I got my entire IT major banned from taking a class
+* ⚡ **Ask me about:** Python, JavaScript, Java, or how to accidentally break university policy
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+---
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-aeb234?style=for-the-badge)
-
-**Tools & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-3444b2?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-51b234?style=for-the-badge)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## Connect With Me
+### 🧰 Tech Stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.thedhruv.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@thedhruv.dev)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` &nbsp;&bull;&nbsp; `JavaScript` &nbsp;&bull;&nbsp; `Java` |
+| **Frameworks** | `React` &nbsp;&bull;&nbsp; `Express` &nbsp;&bull;&nbsp; `Bootstrap` |
+| **Databases** | `MySQL` &nbsp;&bull;&nbsp; `SQLite` |
+| **Tools & DevOps** | `Git` &nbsp;&bull;&nbsp; `VS Code` &nbsp;&bull;&nbsp; `Postman` |
 
 </div>
 
 ---
 
+### 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasubawa&theme=tokyo-night&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF&background=0d1117" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 📬 Connect With Me
+
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.thedhruv.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@thedhruv.dev)
 
 </div>
